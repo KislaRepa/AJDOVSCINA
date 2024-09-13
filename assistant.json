@@ -1,4 +1,4 @@
-{"id":"aasst_WChyGNPe6dCRcfzeudtND1IH","object":"assistant","created_at":1723105624,"name":"AJDOVSCINA",
+{"id":"asst_WChyGNPe6dCRcfzeudtND1IH","object":"assistant","created_at":1723105624,"name":"AJDOVSCINA",
 "description":null,"model":"gpt-4o-mini","instructions":
 "",
 "tools":[{"type":"file_search"}],"top_p":1,"temperature":1,"tool_resources":{"file_search":{"vector_store_ids":["vs_UjvIXyvHF96AUjszGdoiNOqtl9GK"]}},
